@@ -8,6 +8,7 @@
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="200"/>
+        <br>
         <figcaption >Kemo</figcaption>
       </figure>
     </td>
@@ -28,6 +29,7 @@
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="200"/>
+       <br>
         <figcaption >Owl</figcaption>
       </figure>
     </td>
