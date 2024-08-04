@@ -4,6 +4,7 @@
 ### 2- Main characters in the project :
 
 https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png
+https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png
 
 
 ### 4- The general idea of ​​the project :
