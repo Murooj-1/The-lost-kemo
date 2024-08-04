@@ -86,19 +86,31 @@ Kemo And His Mother Convirsation
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/1.png" alt="Screenshot 1" width="800"/></td>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/6.png" alt="Screenshot 6" width="800" height="550" /></td>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/9.png" alt="Screenshot 9" width="800"  /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/1.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/2.png" alt="Screenshot 2" width="400" /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/3.png" alt="Screenshot 3" width="400"  /></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/2.png" alt="Screenshot 2" width="300"/></td>
-     <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/3.png" alt="Screenshot 3" width="300"/></td>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/8.png" alt="Screenshot 8" width="300"/></td>
+     <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/4.png" alt="Screenshot 4" width="400"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/5.png" alt="Screenshot 5" width="400" /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/6.png" alt="Screenshot 6" width="400"  /></td>
   </tr>
   <tr>
-   <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/7.png" alt="Screenshot 7" width="300"/></td>
-   <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/5.png" alt="Screenshot 5" width="300"/></td>
-    <td><img src="https://github.com/Murooj-1/plant_care/blob/main/Screenshots/4.png" alt="Screenshot 4" width="300"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/7.png" alt="Screenshot 7" width="400"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/8.png" alt="Screenshot 8" width="400" /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/9.png" alt="Screenshot 9" width="400"  /></td>
+
+ </tr>
+   <tr>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/10.png" alt="Screenshot 10" width="400"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/11.png" alt="Screenshot 11" width="400" /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/12.png" alt="Screenshot 12" width="400"  /></td>
+
+ </tr>
+  <tr>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/13.png" alt="Screenshot 13" width="400"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/14.png" alt="Screenshot 14" width="400" /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/Screenshots/15.png" alt="Screenshot 15" width="400"  /></td>
 
  </tr>
 </table>
