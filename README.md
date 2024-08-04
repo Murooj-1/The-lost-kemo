@@ -8,26 +8,27 @@
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="200"/>
-        <figcaption>Kemo</figcaption>
+        <figcaption align="center">Kemo</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="200"/>
         <br>
-        <figcaption>Kemo Family</figcaption>
+        <figcaption align="center">Kemo Family</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/RabbitFamily.png" alt="MainCharacters 3" width="200"/>
-        <figcaption>Rabbit Family</figcaption>
+            <br>
+        <figcaption align="center">Rabbit Family</figcaption>
       </figure>
     </td>
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="200"/>
-        <figcaption>Owl</figcaption>
+        <figcaption align="center">Owl</figcaption>
       </figure>
     </td>
   </tr>
