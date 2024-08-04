@@ -46,36 +46,20 @@ Using Opengl To Create An Animation Story For Children, Also An Education Projec
 
 ### 6- Project Detail And Scope:
   Project Start With The Starting Scene Where You Choose Wether You Want To Start Playing The Story Or Read The Story By Clicking With Your Mouse.
-
 - **Section 1:** <span style="font-weight: normal;">Start With Showing Kemo With His Family.</span>
-
-
-####  - Section 2:
-Kemo Playing In The Corn Fields.
-####  - Section 3:
-Kemo Going To The Forest.
-####  - Section 4:
-Kemo Rolling A Large Walnut
-####  - Section 5:
-Kemo Looking For His Home
-####  - Section 6:
-Kemo Crying In A Hole He Doesn’t Know
-####  - Section 7:
-The Sun Raise
-####  - Section 8:
-Kemo Sleeping In Rabbit’s Home
-####  - Section 9: 
-Rabit’s Father Helping Kemo
-####  - Section 10:
-Rabits Father With The Owl
-####  - Section 11:
-The Owl Trying To Help Kemo
-####  - Section 12:
-The Owl Finding Kemo’s Famliy Looking For Him
-####  - Section 13:
-Kemo Returning To His Family
-####  - Section 14:
-Kemo And His Mother Convirsation
+- **Section 2:** <span style="font-weight: normal;">Kemo Playing In The Corn Fields.</span>
+- **Section 3:** <span style="font-weight: normal;">Kemo Going To The Forest.</span>
+- **Section 4:** <span style="font-weight: normal;">Kemo Rolling A Large Walnut.</span>
+- **Section 5:** <span style="font-weight: normal;">Kemo Looking For His Home.</span>
+- **Section 6:** <span style="font-weight: normal;">Kemo Crying In A Hole He Doesn’t Know.</span>
+- **Section 7:** <span style="font-weight: normal;">The Sun Raises.</span>
+- **Section 8:** <span style="font-weight: normal;">Kemo Sleeping In Rabbit’s Home.</span>
+- **Section 9:** <span style="font-weight: normal;">Rabbit’s Father Helping Kemo.</span>
+- **Section 10:** <span style="font-weight: normal;">Rabbit’s Father With The Owl.</span>
+- **Section 11:** <span style="font-weight: normal;">The Owl Trying To Help Kemo.</span>
+- **Section 12:** <span style="font-weight: normal;">The Owl Finding Kemo’s Family Looking For Him.</span>
+- **Section 13:** <span style="font-weight: normal;">Kemo Returning To His Family.</span>
+- **Section 14:** <span style="font-weight: normal;">Kemo And His Mother Conversation.</span>
 
 
 
