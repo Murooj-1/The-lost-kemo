@@ -3,10 +3,38 @@
 
 ### 2- Main characters in the project :
 
-<div align="center">
-  <img src="https://github.com/Murooj-1/plant_care/blob/main/images/logo.png" alt="project Logo" width="150" height="110"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="200"/>
+        <br>
+        <figcaption >Kemo</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="200"/>
+        <br>
+        <figcaption >Kemo Family</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/RabbitFamily.png" alt="MainCharacters 3" width="200"/>
+            <br>
+        <figcaption >Rabbit Family</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="200"/>
+       <br>
+        <figcaption >Owl</figcaption>
+      </figure>
+    </td>
+  </tr>
+</table>
 
 
 ### 4- The general idea of ​​the project :
