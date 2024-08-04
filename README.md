@@ -3,8 +3,21 @@
 
 ### 2- Main characters in the project :
 
-https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png
-https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png
+
+
+
+
+
+
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="100"/></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="100"  /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/RabbitFamily.png" alt="MainCharacters 3" width="100"  /></td>
+    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="100"  /></td>
+  </tr>
+
+</table>
 
 
 ### 4- The general idea of ​​the project :
