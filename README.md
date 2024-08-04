@@ -101,15 +101,15 @@ Using Opengl To Create An Animation Story For Children, Also An Education Projec
 </table>
 
 ### 8- Work team :
-Murooj Al-Zahrani
+ - Murooj Al-Zahrani
 
-Manar Al-Mashi
+ - Manar Al-Mashi 
 
-Lamis Mohammed
+ - Lamis Mohammed
 
-Rahaf Al-Mehdar
+ - Rahaf Al-Mehdar
 
-Farah Al-Ansari 
+ - Farah Al-Ansari 
 
 
 
