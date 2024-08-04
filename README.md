@@ -47,7 +47,8 @@ Using Opengl To Create An Animation Story For Children, Also An Education Projec
 ### 6- Project Detail And Scope:
   Project Start With The Starting Scene Where You Choose Wether You Want To Start Playing The Story Or Read The Story By Clicking With Your Mouse.
 
-#### - Section 1: <span style="font-weight: normal;">Start With Showing Kemo With His Family.</span>
+- **Section 1:** <span style="font-weight: normal;">Start With Showing Kemo With His Family.</span>
+
 
 ####  - Section 2:
 Kemo Playing In The Corn Fields.
