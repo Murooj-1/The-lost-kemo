@@ -14,6 +14,7 @@
     <td>
       <figure>
         <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="200"/>
+        <br>
         <figcaption>Kemo Family</figcaption>
       </figure>
     </td>
