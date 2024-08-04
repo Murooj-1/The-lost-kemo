@@ -3,10 +3,7 @@
 
 ### 2- Main characters in the project :
 
-<div align="center">
-  <img src="https://github.com/Murooj-1/plant_care/blob/main/images/logo.png" alt="project Logo" width="150" height="110"/>
-</div>
-
+https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png
 
 
 ### 4- The general idea of ​​the project :
