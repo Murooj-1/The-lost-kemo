@@ -3,20 +3,33 @@
 
 ### 2- Main characters in the project :
 
-
-
-
-
-
-
-<table align="center">
+<table>
   <tr>
-    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="100"/></td>
-    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="100"  /></td>
-    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/RabbitFamily.png" alt="MainCharacters 3" width="100"  /></td>
-    <td><img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="100"  /></td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/Kemo.png" alt="MainCharacters 1" width="200"/>
+        <figcaption>Kemo</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/KemoFamily.png" alt="MainCharacters 2" width="200"/>
+        <figcaption>Kemo Family</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/RabbitFamily.png" alt="MainCharacters 3" width="200"/>
+        <figcaption>Rabbit Family</figcaption>
+      </figure>
+    </td>
+    <td>
+      <figure>
+        <img src="https://github.com/Murooj-1/The-lost-kemo/blob/main/MainCharacters/owl.png" alt="MainCharacters 4" width="200"/>
+        <figcaption>Owl</figcaption>
+      </figure>
+    </td>
   </tr>
-
 </table>
 
 
